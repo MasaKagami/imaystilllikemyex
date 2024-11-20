@@ -12,7 +12,7 @@ Will fate be on your side? 🤔
 
 ## Technologies Used
 - **Next.js**: For a fast, SEO-friendly static site.
-- **Tailwind CSS**: To make it visually appealing and responsive.
+- **Tailwind CSS/daisyUI**: To make it visually appealing and responsive.
 - **TypeScript**: To handle form submission logic and probability.
 
 ## Installation
