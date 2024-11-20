@@ -12,8 +12,8 @@ Will fate be on your side? 🤔
 
 ## Technologies Used
 - **Next.js**: For a fast, SEO-friendly static site.
-- **CSS/SCSS/Tailwind CSS** (choose based on implementation): To make it visually appealing and responsive.
-- **JavaScript/TypeScript**: To handle form submission logic and probability.
+- **Tailwind CSS**: To make it visually appealing and responsive.
+- **TypeScript**: To handle form submission logic and probability.
 
 ## Installation
 1. Clone the repository:
